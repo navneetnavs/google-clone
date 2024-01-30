@@ -72,7 +72,7 @@ const Main: React.FC = () => {
                 height={100}
             />
             <form onSubmit={(e) => onSearchSubmit(e)} className="flex border mt-7 px-5 py-2 rounded-full w-2/5 items-center hover:shadow-md">
-                <AiOutlineSearch className="text-xl text-black" />
+                <AiOutlineSearch className="text-xl text-black text-slate-400" />
                 <input 
                     type="text" 
                     className="w-full focus:outline-none ml-4" 
