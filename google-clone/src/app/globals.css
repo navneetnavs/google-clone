@@ -17,7 +17,7 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  background-image: url("https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg");
   background: linear-gradient(
       to bottom,
       transparent,
